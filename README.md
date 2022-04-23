@@ -1,1 +1,0 @@
-# Girlscript-Summer-Of-Code-Website-Clone
